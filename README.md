@@ -1,2 +1,3 @@
 # Ursina-Perlin-Terrain
-this is a function which can create realistic perlin terrain
+This is very simple to use.
+and i am new at github so i dont know what i am doing
